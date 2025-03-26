@@ -1,0 +1,2 @@
+spl_autoload_register()
+calls a function when a class is loaded.
